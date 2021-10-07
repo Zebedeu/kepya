@@ -128,8 +128,8 @@ CREATE TABLE `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://http://186.192.169.252/wordpress', 'yes'),
-(2, 'home', 'http://http://186.192.169.252/wordpress', 'yes'),
+(1, 'siteurl', 'http://186.192.169.252/wordpress', 'yes'),
+(2, 'home', 'http://186.192.169.252/wordpress', 'yes'),
 (3, 'blogname', 'kepya', 'yes'),
 (4, 'blogdescription', 'Kepya is an agricultural products and services', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
